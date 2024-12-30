@@ -1,4 +1,11 @@
 # SimpleMultithreader
+
+How to Run:
+
+type "make" in linux shell
+
+type "./vector" and "./matrix" 
+
 Using Multithreading with Ease
 
 The first thing the library needs to do is include the headers it needs like pthread. # 1. #include // h for thread management # 2. #include // functional for passing callable function # 3. #include // vector for thread handles and args # 4. #include // chrono for execution time measurement # 5. #include // iostream for logging These headers form the basis of the library’s powerful and reusable multithreading features.
